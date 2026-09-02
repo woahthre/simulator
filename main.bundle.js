@@ -52478,7 +52478,7 @@ var GLOBAL_LEADERBOARD_API = null;
         Jc = function() {
             if (null != C.get(this, modWarningText, "f")) {
                 const e = Co();
-                C.get(this, modWarningText, "f").textContent = null != e ? C.get(this, yc, "f").get("Unofficial {0} mod by {1}. For the original version please visit:", [e.modName, e.author]) : C.get(this, yc, "f").get("It seems like you are playing an unofficial version of {0}. For the most up-to-date version please visit the original source:", ["PolyTrack"]);
+                C.get(this, modWarningText, "f").textContent = null != e ? C.get(this, yc, "f").get("Unofficial shstrack mod by a dude and cwcinc. For the original version please visit:", [e.modName, e.author]) : C.get(this, yc, "f").get("It seems like you are playing an unofficial version of ixl. For the most up-to-date version please visit the original source:", ["PolyTrack"]);
                 const t = document.createElement("a");
                 if (t.href = Io(),
                 t.textContent = Io(),
