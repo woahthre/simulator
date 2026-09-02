@@ -52466,11 +52466,11 @@ var GLOBAL_LEADERBOARD_API = null;
         Kc = function(e) {
             C.get(this, Mc, "f").innerHTML = "";
             
-            const cwcincAttribution = document.createElement("a");
+            /*const cwcincAttribution = document.createElement("a");
             cwcincAttribution.href = "https://cwcinc.dev/",
             cwcincAttribution.target = "_blank",
             cwcincAttribution.textContent = "© 2026 cwcinc - " + e.get("cwctrack") + " " + MOD_VERSION,
-            C.get(this, Mc, "f").appendChild(cwcincAttribution);
+            C.get(this, Mc, "f").appendChild(cwcincAttribution);*/
 
             const t = document.createElement("a");
             t.href = "https://www.kodub.com",
