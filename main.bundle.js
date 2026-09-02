@@ -46040,39 +46040,11 @@ var GLOBAL_LEADERBOARD_API = null;
                 "zh-CN": "服务条款",
                 "zh-TW": "服務條款"
             },
-            "Unofficial {0} mod by {1}. For the original version please visit:": {
-                ar: "تعديل غير رسمي لـ {0} بواسطة {1}. للحصول على النسخة الأصلية يرجى زيارة:",
-                "de-DE": "Inoffizielles {0}-Mod von {1}. Für die Originalversion besuchen Sie bitte:",
-                "es-ES": "Mod no oficial de {0} por {1}. Para la versión original, visite:",
-                "fr-FR": "Mod non officiel de {0} par {1}. Pour la version originale, veuillez visiter :",
-                "it-IT": "Mod non ufficiale di {0} di {1}. Per la versione originale visita:",
-                "ja-JP": "{1}による非公式の{0}モッド。元のバージョンについては、以下をご覧ください:",
-                "ko-KR": "{1}의 비공식 {0} 모드. 원본 버전은 다음을 방문하십시오:",
-                "pl-PL": "Nieoficjalny mod {0} autorstwa {1}. Aby uzyskać oryginalną wersję, odwiedź:",
-                "pt-BR": "Mod não oficial de {0} por {1}. Para a versão original, visite:",
-                "pt-PT": "Mod não oficial de {0} por {1}. Para a versão original, visite:",
-                "ru-RU": "Неофициальный мод {0} от {1}. Для оригинальной версии посетите:",
-                "tr-TR": "{1} tarafından yapılmış resmi olmayan {0} mod. Orijinal sürüm için lütfen ziyaret edin:",
-                "uk-UA": "Неофіційний мод {0} від {1}. Для оригінальної версії відвідайте:",
-                "zh-CN": "{1} 的非官方 {0} 模组。请访问以下链接获取原始版本：",
-                "zh-TW": "{1} 的非官方 {0} 模組。請訪問以下連結以獲取原始版本："
+            "Unofficial shstrack mod by a dude and cwcinc. For the original version please visit:": {
+               
             },
-            "It seems like you are playing an unofficial version of {0}. For the most up-to-date version please visit the original source:": {
-                ar: "يبدو أنك تلعب نسخة غير رسمية من {0}. للحصول على أحدث إصدار يرجى زيارة المصدر الأصلي:",
-                "de-DE": "Es scheint, dass Sie eine inoffizielle Version von {0} spielen. Für die aktuellste Version besuchen Sie bitte die Originalquelle:",
-                "es-ES": "Parece que estás jugando una versión no oficial de {0}. Para la versión más actualizada, visita la fuente original:",
-                "fr-FR": "Il semble que vous jouiez à une version non officielle de {0}. Pour la version la plus récente, veuillez visiter la source originale :",
-                "it-IT": "Sembra che tu stia giocando a una versione non ufficiale di {0}. Per la versione più aggiornata visita la fonte originale:",
-                "ja-JP": "{0} の非公式バージョンをプレイしているようです。最新バージョンについては、元のソースをご覧ください:",
-                "ko-KR": "{0}의 비공식 버전을 플레이 중인 것 같습니다. 최신 버전은 원본 소스에서 확인하십시오:",
-                "pl-PL": "Wygląda na to, że grasz w nieoficjalną wersję {0}. Aby uzyskać najnowszą wersję, odwiedź oryginalne źródło:",
-                "pt-BR": "Parece que você está jogando uma versão não oficial de {0}. Para a versão mais atualizada, visite a fonte original:",
-                "pt-PT": "Parece que está a jogar uma versão não oficial de {0}. Para a versão mais atualizada, visite a fonte original:",
-                "ru-RU": "Похоже, вы играете в неофициальную версию {0}. Для самой актуальной версии посетите оригинальный источник:",
-                "tr-TR": "{0} adlı resmi olmayan bir sürüm oynuyor gibi görünüyorsunuz. En güncel sürüm için lütfen orijinal kaynağı ziyaret edin:",
-                "uk-UA": "Здається, ви граєте в неофіційну версію {0}. Для найновішої версії відвідайте оригінальне джерело:",
-                "zh-CN": "您似乎正在玩 {0} 的非官方版本。请访问原始来源获取最新版本：",
-                "zh-TW": "您似乎正在玩非官方版本的 {0}。請訪問原始來源以獲取最新版本："
+            "It seems like you are playing an unofficial version of a simulator. For the most up-to-date version please visit the original source:": {
+                
             },
             "Iframe is not allowed.": {
                 ar: "غير مسموح بإطار iframe.",
