@@ -96,3 +96,4 @@ For app downloads and installation instructions, read the [latest release](https
 - FOV multiplier setting
   - Change the rate of FOV changing as velocity increases
   - When at the lowest setting, camera FOV is completely static
+Credit to cwcinc
