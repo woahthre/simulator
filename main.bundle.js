@@ -53328,7 +53328,7 @@ var GLOBAL_LEADERBOARD_API = null;
                         lastModified: new Date("2026-09-06T00:51:55.000Z")
                     },
                     environment: TrackEnvironment.Winter,
-                    trackUrl: "tracks/community/la_infinta.track",
+                    trackUrl: "tracks/community/la_infinita.track",
                     thumbnail: "tracks/community/thumbnails/la_infinita.png"
                 },{
                     id: "5159a8dac6a1f397407a7b5233ad570613531f6609f7dc897490c28c9f2c7a4e",
