@@ -53320,6 +53320,17 @@ var GLOBAL_LEADERBOARD_API = null;
                 }
                 )),
                 C.set(this, loadedCommunityTracks, [{
+                    id: "31493359c2ecf6387845abd96b4481ee242bea8e58fbcf43c92fa4893efa0dd5",
+                    group: "0.6.7",
+                    trackMetadata: {
+                        name: "Lap Track 1",
+                        author: "Grahamlol",
+                        lastModified: new Date("1776-07-04T02:51:55.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/lap_track_1.track",
+                    thumbnail: "tracks/community/thumbnails/lap_tack_1.png"
+                },{
                     id: "387aab2d3400ebf74b5a780d15c911cdc695053b94be3e7ad23f6ae313b2471c",
                     group: "0.6.3",
                     trackMetadata: {
@@ -53330,6 +53341,105 @@ var GLOBAL_LEADERBOARD_API = null;
                     environment: TrackEnvironment.Winter,
                     trackUrl: "tracks/community/la_infinita.track",
                     thumbnail: "tracks/community/thumbnails/la_infinita.png"
+                },{
+                    id: "a680fa81e6a4b9dec06b4197833f0a96334a275faf387d495c9c674ffd6b8686",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "Oyasumi",
+                        author: "Karpin, Dice",
+                        lastModified: new Date("2026-09-04T14:16:40.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/oyasumi.track",
+                    thumbnail: "tracks/community/thumbnails/oyasumi.png"
+                }, {
+                    id: "439f1c61263987365996667f99d65f899ec482dfe21c64edcd9a1b1ae5b4a0a9",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "Zenith",
+                        author: "HummusHere",
+                        lastModified: new Date("2026-07-29T18:47:49.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/zenith.track",
+                    thumbnail: "tracks/community/thumbnails/zenith.png"
+                }, {
+                    id: "dc7783fef2a5fbb7a2d75b9c6fdd6a9d600b833d47c6274374ea4388c707517a",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "𝔚𝔦𝔫𝔱𝔢𝔯𝔱𝔦𝔡𝔢",
+                        author: "Vanyayuyay + Kaiser-Burn",
+                        lastModified: new Date("2026-09-13T17:06:50.000Z")
+                    },
+                    environment: TrackEnvironment.Winter,
+                    trackUrl: "tracks/community/wintertide.track",
+                    thumbnail: "tracks/community/thumbnails/wintertide.png"
+                }, {
+                    id: "f40d385d5e97e00a166a9a05d19789d8f2bf3621a8c1c8919c8bec41ab6347ab",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "The CrossFades",
+                        author: "CXKat",
+                        lastModified: new Date("2026-09-13T20:43:20.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/the_crossfades.track",
+                    thumbnail: "tracks/community/thumbnails/the_crossfades.png"
+                }, {
+                    id: "d57a81355f36d5ef0bd2c063d251baf6d28401c275a8b3e3a62e0ae5071a2559",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "Out of Bounds",
+                        author: "Kiki",
+                        lastModified: new Date("2026-06-22T20:47:30.000Z")
+                    },
+                    environment:TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/out_of_bounds.track",
+                    thumbnail: "tracks/community/thumbnails/out_of_bounds.png"
+                }, {
+                    id: "225fad12335dadc12b60bfa1b31369b1026d8a084fd4670583870fb3b71f7ec0",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "Solaris",
+                        author: "HummusHere & cheesebob",
+                        lastModified: new Date("2026-06-07T19:59:43.000Z")
+                    },
+                    environment: TrackEnvironment.Desert,
+                    trackUrl: "tracks/community/solaris.track",
+                    thumbnail: "tracks/community/thumbnails/solaris.png"
+                }, {
+                    id: "0338f449b9948f06c03ffc2ab3ab6cf551fd08a9f2c09a16156b93ef52dd4411",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "݁˖.˚ Evanescent Bliss. ݁₊˚ .",
+                        author: "Raylee & HummusHere",
+                        lastModified: new Date("2026-07-19T03:28:11.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/evanescent_bliss.track",
+                    thumbnail: "tracks/community/thumbnails/evanescent_bliss.png"
+                }, {
+                    id: "27c3384de80b1bed23f1ea15316abe62c8cca33e955805f23d461803f6dee8d4",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "𐌀𐌕𐌋𐌀𐌍𐌕𐌉𐌔",
+                        author: "Apex & Xander",
+                        lastModified: new Date("2026-09-13T09:57:59.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/atlantis.track",
+                    thumbnail: "tracks/community/thumbnails/atlantis.png"
+                }, {
+                    id: "d9bc51ec180bc46558e079c7949ba10b9ade52078c4c145f217a6a8543df2377",
+                    group: "0.6.3",
+                    trackMetadata: {
+                        name: "Tucks Factory",
+                        author: "Tuck and Mask",
+                        lastModified: new Date("2026-09-02T12:38:21.000Z")
+                    },
+                    environment: TrackEnvironment.Summer,
+                    trackUrl: "tracks/community/tucks_factory.track",
+                    thumbnail: "tracks/community/thumbnails/tucks_factory.png"
                 },{
                     id: "5159a8dac6a1f397407a7b5233ad570613531f6609f7dc897490c28c9f2c7a4e",
                     group: "0.6.1",
