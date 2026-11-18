@@ -53321,7 +53321,7 @@ var GLOBAL_LEADERBOARD_API = null;
                 )),
                 C.set(this, loadedCommunityTracks, [{
                     id: "31493359c2ecf6387845abd96b4481ee242bea8e58fbcf43c92fa4893efa0dd5",
-                    group: "0.6.7",
+                    group: "Track of the Week",
                     trackMetadata: {
                         name: "Lap Track 1",
                         author: "Grahamlol",
